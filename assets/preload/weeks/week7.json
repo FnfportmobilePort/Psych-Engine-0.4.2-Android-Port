@@ -1,0 +1,31 @@
+{
+	"storyName": "Learn With Eddsworld",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "edd",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Unrecognizable-World",
+			"test",
+			[
+				26,
+				133,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "eddpibby-sg"
+}
