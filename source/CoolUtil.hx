@@ -1,4 +1,4 @@
-﻿<package;
+package;
 
 import flixel.FlxG;
 import openfl.utils.Assets;
@@ -13,7 +13,9 @@ class CoolUtil
 {
 	// [Difficulty name, Chart file suffix]
 	public static var difficultyStuff:Array<Dynamic> = [
+		['Easy', ''],
 		['Normal', ''],
+		['Hard', '']
 	];
 
 	public static function difficultyString():String
