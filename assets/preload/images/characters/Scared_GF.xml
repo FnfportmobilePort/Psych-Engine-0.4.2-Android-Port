@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scared_GF.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SGF combobreak0000" x="14" y="14" width="341" height="414" frameX="-9" frameY="-16" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0001" x="370" y="14" width="342" height="417" frameX="-2" frameY="-13" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0002" x="727" y="14" width="337" height="430" frameX="0" frameY="0" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0003" x="1079" y="14" width="332" height="430" frameX="-12" frameY="0" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0004" x="1426" y="14" width="327" height="422" frameX="-33" frameY="-8" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0005" x="1768" y="14" width="333" height="425" frameX="-69" frameY="-5" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0006" x="2116" y="14" width="333" height="425" frameX="-73" frameY="-5" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0007" x="2464" y="14" width="332" height="423" frameX="-58" frameY="-7" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0008" x="2811" y="14" width="329" height="421" frameX="-44" frameY="-9" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0009" x="3155" y="14" width="328" height="424" frameX="-26" frameY="-6" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0010" x="3498" y="14" width="331" height="426" frameX="-17" frameY="-4" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0011" x="14" y="459" width="332" height="424" frameX="-13" frameY="-6" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0012" x="361" y="459" width="329" height="424" frameX="-22" frameY="-6" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF combobreak0013" x="705" y="459" width="331" height="424" frameX="-18" frameY="-6" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="SGF idle0000" x="1051" y="459" width="349" height="442" frameX="-21" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0001" x="1051" y="459" width="349" height="442" frameX="-21" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0002" x="1415" y="459" width="362" height="441" frameX="-11" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0003" x="1415" y="459" width="362" height="441" frameX="-11" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0004" x="1792" y="459" width="366" height="441" frameX="-6" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0005" x="2173" y="459" width="366" height="441" frameX="-6" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0006" x="2554" y="459" width="370" height="441" frameX="-4" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0007" x="2939" y="459" width="374" height="441" frameX="0" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0008" x="2939" y="459" width="374" height="441" frameX="0" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0009" x="2939" y="459" width="374" height="441" frameX="0" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0010" x="3328" y="459" width="364" height="441" frameX="-10" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0011" x="3328" y="459" width="364" height="441" frameX="-10" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0012" x="3328" y="459" width="364" height="441" frameX="-10" frameY="-5" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0013" x="3707" y="459" width="349" height="442" frameX="-20" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0014" x="3707" y="459" width="349" height="442" frameX="-20" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0015" x="14" y="916" width="349" height="442" frameX="-21" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0016" x="14" y="916" width="349" height="442" frameX="-21" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0017" x="378" y="916" width="350" height="442" frameX="-34" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0018" x="378" y="916" width="350" height="442" frameX="-34" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0019" x="743" y="916" width="350" height="443" frameX="-51" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0020" x="743" y="916" width="350" height="443" frameX="-51" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0021" x="1108" y="916" width="349" height="443" frameX="-52" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0022" x="1472" y="916" width="349" height="443" frameX="-54" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0023" x="1836" y="916" width="349" height="443" frameX="-54" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0024" x="1836" y="916" width="349" height="443" frameX="-54" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0025" x="2200" y="916" width="350" height="443" frameX="-46" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0026" x="2200" y="916" width="350" height="443" frameX="-46" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0027" x="2200" y="916" width="350" height="443" frameX="-46" frameY="-3" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0028" x="2565" y="916" width="350" height="442" frameX="-35" frameY="-4" frameWidth="403" frameHeight="446"/>
+	<SubTexture name="SGF idle0029" x="2930" y="916" width="350" height="442" frameX="-35" frameY="-4" frameWidth="403" frameHeight="446"/>
+</TextureAtlas>
