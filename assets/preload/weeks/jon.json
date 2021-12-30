@@ -1,0 +1,26 @@
+{
+	"storyName": "After Date",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"maniacal",
+			"jon",
+			[
+				50,
+				5,
+				10
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "After Date"
+}
